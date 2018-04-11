@@ -1,0 +1,28 @@
+{
+  "name": "cart-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "nodemon": "^1.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusVaz/cart-react.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vinicius VAz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ViniciusVaz/cart-react/issues"
+  },
+  "homepage": "https://github.com/ViniciusVaz/cart-react#readme"
+}
